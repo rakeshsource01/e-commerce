@@ -11,10 +11,8 @@ function App() {
   
   return (
 <>
-<Router>
-      
 
-    <div className="eshopApp home">
+        <div className="eshopApp home">
 
       <div className="page-wrapper">
         <h1 className="d-none">Wolmart - Responsive Marketplace HTML Template</h1>
@@ -3301,11 +3299,7 @@ function App() {
       </div>
 
     </div>
-    <Switch>
-             <Route exact path="/about" component={About}/>
-          
-          </Switch>
-    </Router>
+   
     </>
   );
 }
