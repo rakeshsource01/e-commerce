@@ -29,6 +29,7 @@ function App() {
                         'delay': 8000,
                         'disableOnInteraction': false
                     }
+                    
                 }">
               <div className="swiper-wrapper">
                 <div className="swiper-slide banner banner-fixed intro-slide intro-slide1" style={{ backgroundImage: 'url(assets/images/demos/demo1/sliders/slide-1.jpg)', backgroundColor: '#ebeef2' }}>
