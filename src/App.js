@@ -51,7 +51,7 @@ function App() {
                                     'duration': '1s',
                                     'delay': '.4s'
                                 }">
-                        RUNNING SHOES
+                        ALL RUNNING SHOES
                       </h3>
                       <p className="font-weight-normal text-default slide-animate" data-animation-options="{
                                     'name': 'fadeInRightShorter',
